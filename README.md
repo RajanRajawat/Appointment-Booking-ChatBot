@@ -2,7 +2,7 @@
 
 A simple AI chatbot API built using **FastAPI** and **Google Gemini (LangChain)**.
 It supports conversation handling and can be integrated with any frontend.
-
+(ReadMe Generated with AI)
 ---
 
 ## 🚀 Features
